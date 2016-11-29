@@ -2,7 +2,6 @@
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,10 +10,10 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.rb</mask>
-      <mask>*.coffee</mask>
+      <mask>*.scss</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
