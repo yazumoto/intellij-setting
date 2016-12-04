@@ -8,12 +8,14 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.rb</mask>
       <mask>*.scss</mask>
       <mask>*.css</mask>
+      <mask>*.js</mask>
+      <mask>*.coffeee</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
