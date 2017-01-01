@@ -1,8 +1,10 @@
 <code_scheme name="Default (2)">
   <codeStyleSettings language="ruby">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="INDENT_WHEN_CASES" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
