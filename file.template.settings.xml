@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="RSpec Test Template.rb" reformat="false" live-template-enabled="false" enabled="true" />
+    </default_templates>
+  </component>
+</application>
