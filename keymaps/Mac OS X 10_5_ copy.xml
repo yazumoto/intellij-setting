@@ -17,6 +17,9 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
