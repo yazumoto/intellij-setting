@@ -24,6 +24,11 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
