@@ -1,0 +1,26 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Ruby/Add @param tag" />
+    <ignoreAction name="Ruby/Add @return tag" />
+    <ignoreAction name="Ruby/Append current directory to path" />
+    <ignoreAction name="Ruby/Convert ':' to '=&gt;'" />
+    <ignoreAction name="Ruby/Convert '=&gt;' to ':'" />
+    <ignoreAction name="Ruby/Convert 'do' block to { }" />
+    <ignoreAction name="Ruby/Convert all ':' to '=&gt;'" />
+    <ignoreAction name="Ruby/Convert all '=&gt;' to ':'" />
+    <ignoreAction name="Ruby/Convert concatenation of strings to substitutions #{}" />
+    <ignoreAction name="Ruby/Convert heredoc to squiggly heredoc" />
+    <ignoreAction name="Ruby/Convert if/then/else/end block to ternary operator" />
+    <ignoreAction name="Ruby/Convert modifier to statement" />
+    <ignoreAction name="Ruby/Convert relative path to absolute" />
+    <ignoreAction name="Ruby/Convert statement to modifier" />
+    <ignoreAction name="Ruby/Convert string to symbol" />
+    <ignoreAction name="Ruby/Convert symbol to string" />
+    <ignoreAction name="Ruby/Convert ternary operator to if/then/else/end block" />
+    <ignoreAction name="Ruby/Convert to erb comment" />
+    <ignoreAction name="Ruby/Convert { } to 'do' block" />
+    <ignoreAction name="Ruby/I18n string value" />
+    <ignoreAction name="Ruby/Replace safe navigation with chained calls conjunction" />
+    <ignoreAction name="Ruby/Replace safe navigation with nested nil checks" />
+  </component>
+</application>
