@@ -17,7 +17,6 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="forimage" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
