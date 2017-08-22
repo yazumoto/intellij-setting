@@ -600,6 +600,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bundler-1.14.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/task" />
+      </SOURCES>
+    </library>
     <library name="byebug (v9.0.6, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
@@ -1668,6 +1684,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.0/man" />
       </SOURCES>
     </library>
+    <library name="powder (v0.3.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/powder-0.3.2/man" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.2.2, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
@@ -1926,6 +1954,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v10.4.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
     <library name="rake (v10.4.2, rbenv: 2.3.3) [gem]">
@@ -2522,6 +2562,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/thor-0.19.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/thor-0.19.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, rbenv: 2.3.1) [gem]">
