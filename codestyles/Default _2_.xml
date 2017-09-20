@@ -1,4 +1,7 @@
 <code_scheme name="Default (2)">
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="Jade">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
