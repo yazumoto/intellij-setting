@@ -13,6 +13,7 @@
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
