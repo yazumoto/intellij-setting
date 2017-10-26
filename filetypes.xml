@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="engineer" type="PLAIN_TEXT" />
-      <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
@@ -15,6 +15,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" type="PLAIN_TEXT" />
       <mapping pattern="line" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
