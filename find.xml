@@ -10,6 +10,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -24,6 +25,15 @@
       <mask>*.coffeee</mask>
       <mask>*.coffee</mask>
       <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*_</mask>
+      <mask>*_s</mask>
+      <mask>*_sp</mask>
+      <mask>*_spe</mask>
+      <mask>*_spec</mask>
+      <mask>*_spec.</mask>
+      <mask>*_spec.r</mask>
+      <mask>*_spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
