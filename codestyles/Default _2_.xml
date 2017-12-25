@@ -1,4 +1,11 @@
-<code_scheme name="Default (2)">
+<code_scheme name="Default (2)" version="173">
+  <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+  </JSCodeStyleSettings>
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="false" />
+  </Ruby>
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
@@ -18,7 +25,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="INDENT_WHEN_CASES" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
