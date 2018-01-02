@@ -606,6 +606,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="builder (v3.2.2, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/builder-3.2.2/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/builder-3.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/builder-3.2.2/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/builder-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
@@ -628,6 +638,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bundler-1.11.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bundler-1.11.2/man" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/bundler-1.11.2/exe" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.11.2, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/bundler-1.11.2/man" />
       </SOURCES>
     </library>
     <library name="bundler (v1.13.6, rbenv: 2.0.0-p247) [gem]">
@@ -1110,6 +1134,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
       </SOURCES>
     </library>
+    <library name="hoe (v3.14.2, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/hoe-3.14.2/template" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/hoe-3.14.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/hoe-3.14.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/hoe-3.14.2/template" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/hoe-3.14.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/hoe-3.14.2/bin" />
+      </SOURCES>
+    </library>
     <library name="httpclient (v2.8.2.4, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/httpclient-2.8.2.4/sample" />
@@ -1156,6 +1192,36 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ipaddress-0.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="jruby-jars (v1.7.24, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-jars-1.7.24/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-jars-1.7.24/lib" />
+      </SOURCES>
+    </library>
+    <library name="jruby-launcher (v1.1.1, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/inc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/resources" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/build" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-launcher-1.1.1-java/inc" />
+      </SOURCES>
+    </library>
+    <library name="jruby-rack (v1.1.20, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-rack-1.1.20/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/jruby-rack-1.1.20/lib" />
       </SOURCES>
     </library>
     <library name="json (v1.7.7, rbenv: 2.0.0-p247) [gem]">
@@ -2188,6 +2254,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rake-12.3.0/bin" />
       </SOURCES>
     </library>
+    <library name="rawr (v1.8.3, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/tasks.deprecated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rawr-1.8.3/tasks.deprecated" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.9.7, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.9.7/ext" />
@@ -2482,6 +2562,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/rubygems-update-2.6.3/util" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.1.7, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rubyzip-1.1.7/samples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rubyzip-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rubyzip-1.1.7/samples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/rubyzip-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="s4t-utils (v1.0.4, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/homepage" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/s4t-utils-1.0.4/homepage" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.22, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/sass-3.4.22/bin" />
@@ -2770,6 +2874,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicode-display_width-1.0.5/lib" />
       </SOURCES>
     </library>
+    <library name="user-choices (v1.1.6.1, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/user-choices-1.1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/user-choices-1.1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="uuidtools (v2.1.5, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/uuidtools-2.1.5/lib" />
@@ -2788,6 +2900,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/varia_model-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="warbler (v1.4.9, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/integration" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/integration" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/warbler-1.4.9/ext" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.6.4, rbenv: 2.3.1) [gem]">
@@ -2822,6 +2948,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple (v1.1.5, rbenv: jruby-1.7.23) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/xml-simple-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-1.7.23/lib/ruby/gems/shared/gems/xml-simple-1.1.5/lib" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.2.1, rbenv: 2.4.0) [gem]">
