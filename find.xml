@@ -6,9 +6,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -16,7 +15,6 @@
       <mask>*.rb</mask>
       <mask>*.coffeee</mask>
       <mask>*.coffee</mask>
-      <mask>*.html</mask>
       <mask>*_</mask>
       <mask>*_s</mask>
       <mask>*_sp</mask>
@@ -25,18 +23,21 @@
       <mask>*_spec.</mask>
       <mask>*_spec.r</mask>
       <mask>*_spec.rb</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
