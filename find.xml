@@ -7,9 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
       <mask>*.coffeee</mask>
       <mask>*.coffee</mask>
       <mask>*_sp</mask>
@@ -21,7 +19,6 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.ts</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
@@ -36,9 +33,11 @@
       <mask>*_spec.r</mask>
       <mask>*_spec.rb</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
