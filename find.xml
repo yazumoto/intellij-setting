@@ -5,12 +5,9 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>*.coffeee</mask>
-      <mask>*.coffee</mask>
       <mask>*_sp</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -30,12 +27,16 @@
       <mask>*_spec.</mask>
       <mask>*_spec.r</mask>
       <mask>*_spec.rb</mask>
-      <mask>*</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
