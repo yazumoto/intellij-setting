@@ -12,6 +12,7 @@
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="nagamoto" type="PLAIN_TEXT" />
+      <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern="black-white-list-editor" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
