@@ -19,6 +19,7 @@
   <action id="GotoLine" />
   <action id="GotoRow" />
   <action id="IncrementWindowHeight" />
+  <action id="Jdbc.RunSqlScript" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextTab">
@@ -34,9 +35,15 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
