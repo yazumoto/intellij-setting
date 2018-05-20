@@ -25,19 +25,19 @@
       <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
