@@ -65,5 +65,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
-  <action id="ViewSource" />
+  <action id="ViewSource">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
 </keymap>
