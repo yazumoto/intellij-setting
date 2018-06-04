@@ -11,6 +11,15 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -18,6 +27,7 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
+  <action id="ImplementMethods" />
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.RunSqlScript" />
   <action id="MoveStatementDown" />
@@ -65,5 +75,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
-  <action id="ViewSource" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="ViewSource">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
 </keymap>
