@@ -1,0 +1,9 @@
+<templateSet group="PGRails">
+  <template name="unprocessable_entity" value="unprocessable_entity(params: { $PARAM$: %w[$CODES$] })" description="unprocessable_entity" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+</templateSet>

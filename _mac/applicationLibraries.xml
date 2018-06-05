@@ -2606,6 +2606,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/RSpecZ-41e012449c9c/lib" />
       </SOURCES>
     </library>
+    <library name="rspecz (v0.1.1@46bde0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/RSpecZ-46bde04ff11c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/RSpecZ-46bde04ff11c/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/RSpecZ-46bde04ff11c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/RSpecZ-46bde04ff11c/bin" />
+      </SOURCES>
+    </library>
     <library name="rspecz (v0.1.1@edb51f, rbenv: 2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/RSpecZ-edb51fd3d0e4/lib" />
