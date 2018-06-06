@@ -30,6 +30,7 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
+  <action id="GotoSuperMethod" />
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
@@ -72,6 +73,10 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="ShowProjectStructureSettings" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
