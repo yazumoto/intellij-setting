@@ -6,7 +6,13 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
-  <template name="unauthorized" value="unauthorized(code: $CODE$)" description="unauthorized" toReformat="false" toShortenFQNames="true">
+  <template name="unauthorized" value="unauthorized($CODE$)" description="unauthorized" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="not_found" value="not_found($CODE$)" description="not_found" toReformat="false" toShortenFQNames="true">
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="RUBY" value="true" />
