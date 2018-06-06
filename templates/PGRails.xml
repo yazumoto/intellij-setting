@@ -6,4 +6,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="unauthorized" value="unauthorized(code: $CODE$)" description="unauthorized" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
