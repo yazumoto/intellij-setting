@@ -11,6 +11,9 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
   <action id="EditorMatchBrace" />
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -27,6 +30,12 @@
   </action>
   <action id="GotoLine" />
   <action id="GotoRow" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
   <action id="ImplementMethods" />
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.RunSqlScript" />
@@ -52,13 +61,22 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Run" />
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="ShowProjectStructureSettings" />
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -73,6 +91,14 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowMessageHistory">
