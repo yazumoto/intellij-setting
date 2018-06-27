@@ -70,6 +70,7 @@
   <template name="it" value="it '$VARIABLE_1$'$VARIABLE_2$" description="it (does something)" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="does something" alwaysStopAt="true" />
     <variable name="VARIABLE_2" expression="" defaultValue="do   $END$ end" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="matc" value="class $VARIABLE_1$&#10;  def initialize($VARIABLE_3$)&#10;    @$VARIABLE_3$ = $VARIABLE_3$&#10;  end&#10;&#10;  def matches?(actual)&#10;    @actual = actual&#10;    # Satisfy expectation here. Return false or raise an error if it's not met.&#10;    $VARIABLE_LAST$&#10;    true&#10;  end&#10;&#10;  def failure_message_for_should&#10;    &quot;expected #{@actual.inspect} to $VARIABLE_2$ #{@$VARIABLE_3$.inspect}, but it didn't&quot;&#10;  end&#10;&#10;  def failure_message_for_should_not&#10;    &quot;expected #{@actual.inspect} not to $VARIABLE_2$ #{@$VARIABLE_3$.inspect}, but it did&quot;&#10;  end&#10;end&#10;&#10;def $VARIABLE_2$($VARIABLE_3$)&#10;  $VARIABLE_1$.new($VARIABLE_3$)&#10;end" description="Matcher (Custom)" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VARIABLE_1" expression="" defaultValue="ReverseTo" alwaysStopAt="true" />
