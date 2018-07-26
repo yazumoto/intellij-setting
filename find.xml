@@ -5,37 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.sp</mask>
-      <mask>*_</mask>
-      <mask>*_s</mask>
-      <mask>*_spe</mask>
-      <mask>*_spec</mask>
-      <mask>*_spec.</mask>
-      <mask>*_spec.r</mask>
-      <mask>*_spec.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.c</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*9.</mask>
-      <mask>*9</mask>
-      <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.tsx</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.rb" />
   </component>
 </application>
