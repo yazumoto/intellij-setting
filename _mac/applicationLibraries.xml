@@ -719,6 +719,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.1, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/activesupport-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.4.0, rbenv: 2.3.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/addressable-2.4.0/lib" />
@@ -2854,6 +2862,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.1/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.0.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="i18n (v1.1.0, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/i18n-1.1.0/gemfiles" />
       </excluded>
     </library>
     <library name="inflecto (v0.0.2, rbenv: 2.5.1) [gem]" type="ruby">
