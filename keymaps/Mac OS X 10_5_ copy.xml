@@ -74,7 +74,9 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run" />
-  <action id="RunClass" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RunDashboard.Run" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
