@@ -10,6 +10,7 @@
       <mapping pattern="engineer" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
       <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
