@@ -2,17 +2,19 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="engineer" type="PLAIN_TEXT" />
       <mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" type="PLAIN_TEXT" />
       <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
+      <mapping pattern="engineer" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
       <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
@@ -28,8 +30,9 @@
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="nagamoto" type="PLAIN_TEXT" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
