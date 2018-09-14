@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
