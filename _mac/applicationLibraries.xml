@@ -785,6 +785,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bindex-0.5.0/test" />
       </excluded>
     </library>
+    <library name="binding_of_caller (v0.8.0, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/binding_of_caller/0.8.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/binding_of_caller-0.8.0/examples" />
+      </excluded>
+    </library>
     <library name="blade (v0.7.1, rbenv: 2.5.1) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/blade-0.7.1/bin" />
@@ -1355,6 +1376,24 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
+    </library>
+    <library name="debug_inspector (v0.0.3, rbenv: 2.5.1) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/debug_inspector-0.0.3/test" />
+      </excluded>
     </library>
     <library name="declarative (v0.0.10, rbenv: 2.5.1) [gem]" type="ruby">
       <CLASSES>
