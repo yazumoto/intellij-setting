@@ -7,18 +7,19 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
+      <mapping pattern="geekhub-first" type="PLAIN_TEXT" />
       <mapping pattern="engineer" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
+      <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="masara" type="PLAIN_TEXT" />
       <mapping pattern=".hgignore" type="PLAIN_TEXT" />
-      <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
+      <mapping pattern="masara" type="PLAIN_TEXT" />
       <mapping pattern="black-white-list-editor" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
