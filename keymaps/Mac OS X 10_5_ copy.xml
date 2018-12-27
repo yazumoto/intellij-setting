@@ -5,11 +5,15 @@
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.NextPage" />
   <action id="DecrementWindowHeight" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift meta up" />
@@ -55,6 +59,7 @@
   <action id="Jdbc.RunSqlScript" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -91,6 +96,10 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="ShowProjectStructureSettings" />
   <action id="ShowUsages">
