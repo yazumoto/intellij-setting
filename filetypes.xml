@@ -9,6 +9,7 @@
       <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
       <mapping pattern="web/oauth/callback" type="PLAIN_TEXT" />
       <mapping pattern="geekhub-first" type="PLAIN_TEXT" />
+      <mapping pattern="domain/base" type="PLAIN_TEXT" />
       <mapping pattern=".db_password" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
