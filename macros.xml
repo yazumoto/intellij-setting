@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="SelectNextOccurrence" />
+      <action id="EditorCopy" />
+      <action id="EditorRight" />
+      <typing text-keycode="513:1;32:1">:&amp;#x20;</typing>
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorRight" />
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPaste" />
+      <typing text-keycode="44:0">,</typing>
+    </macro>
+  </component>
+</application>
