@@ -1,15 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDeleteLine" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
       <action id="EditorDown" />
       <action id="EditorDeleteLine" />
       <action id="EditorDown" />
-      <action id="EditorDeleteLine" />
-      <action id="EditorDown" />
-      <action id="EditorDeleteLine" />
-      <action id="EditorDown" />
-      <action id="EditorDeleteLine" />
+      <action id="EditorLineStart" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
     </macro>
   </component>
 </application>
