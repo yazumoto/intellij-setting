@@ -25,7 +25,9 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
-  <action id="EditorMatchBrace" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="ctrl m" />
