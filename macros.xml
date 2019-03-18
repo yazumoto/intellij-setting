@@ -1,15 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorDown" />
-      <action id="EditorDeleteLine" />
-      <action id="EditorDown" />
+      <typing text-keycode="0:1">(</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="0:1;46:0;82:0;79:0;85:0;78:0;68:0">).round</typing>
       <action id="EditorLineStart" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
     </macro>
   </component>
 </application>
