@@ -1,0 +1,12 @@
+<templateSet group="React">
+  <template name="component" value="import React from &quot;react&quot;;&#10;&#10;export class Index extends React.Component {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;test&lt;/div&gt;&#10;    )&#10;  }&#10;}&#10;" description="create component class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="entry" value="import ReactDOM from &quot;react-dom&quot;;&#10;import React from &quot;react&quot;;&#10;import { Index } from &quot;./index&quot;;&#10;&#10;document.addEventListener('DOMContentLoaded', () =&gt; {&#10;  const template = JSON.parse(document.getElementById('template-data').getAttribute('data'));&#10;  ReactDOM.render(&#10;    &lt;Index template={template}/&gt;,&#10;    document.body.appendChild(document.createElement('div')),&#10;  )&#10;});&#10;" description="create entry js" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
