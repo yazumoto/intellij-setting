@@ -4,4 +4,15 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="collect" value="collect { |$ELEMENT$| $ELEMENT$.$END$ }" description="collect" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="class" value="class $class_name$&#10;  def $method_name$&#10;    $END$&#10;  end&#10;end" description="class from filename" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="false" />
+    <variable name="method_name" expression="" defaultValue="index" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>

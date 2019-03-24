@@ -1,9 +1,31 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <typing text-keycode="70:0;69:0;65:0;70:0;69:0;65:0">feafea</typing>
+      <shortuct text="ESCAPE" />
+    </macro>
+    <macro name="make class">
+      <action id="CopyReference" />
+      <action id="EditorPaste" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
       <action id="EditorLineStart" />
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorRight" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDownWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="ToggleCamelSnakeCase" />
+      <action id="EditorLineStart" />
+      <typing text-keycode="67:0;76:0;65:0;83:0;83:0;32:0">class&amp;#x20;</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
     </macro>
   </component>
 </application>
