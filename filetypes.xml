@@ -48,6 +48,7 @@
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="forimage" type="PLAIN_TEXT" />
       <mapping ext="gs" type="PLAIN_TEXT" />
+      <mapping ext="r" type="PLAIN_TEXT" />
       <mapping ext="b" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
