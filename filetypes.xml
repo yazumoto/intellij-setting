@@ -15,6 +15,7 @@
       <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
       <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
@@ -25,7 +26,6 @@
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern="black-white-list-editor" type="PLAIN_TEXT" />
       <mapping pattern="production" type="PLAIN_TEXT" />
-      <mapping pattern="nagamoto" type="PLAIN_TEXT" />
       <mapping pattern=".db_host" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
@@ -34,18 +34,19 @@
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
+      <mapping pattern="nagamoto" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="mk'" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="err" type="PLAIN_TEXT" />
       <mapping ext="forimage" type="PLAIN_TEXT" />
       <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="r" type="PLAIN_TEXT" />
