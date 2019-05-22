@@ -10,5 +10,10 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
