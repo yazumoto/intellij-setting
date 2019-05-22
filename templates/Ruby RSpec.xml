@@ -4,10 +4,6 @@
     <variable name="SETUP" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -15,10 +11,6 @@
     <variable name="DO_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ADD_SOME_COOL_CODE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -27,7 +19,6 @@
     <variable name="MATCHER_METHOD_NAME" expression="" defaultValue="&quot;be_one_more_than&quot;" alwaysStopAt="true" />
     <variable name="MATCHER_METHOD_PRESENTABLE_NAME" expression="underscoresToSpaces(MATCHER_METHOD_NAME)" defaultValue="MATCHER_METHOD_NAME" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="&quot;one_more_than&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="shrec" value="$mock$.should_receive(:$msg$).with($params$).and_return($result$)" description="shrec" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="mock" expression="" defaultValue="" alwaysStopAt="true" />
@@ -35,10 +26,6 @@
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="result" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>

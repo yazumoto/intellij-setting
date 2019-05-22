@@ -4,29 +4,17 @@
     <variable name="THING" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="asre" value="assert_response :$SUCCESS$" description="assert response" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="SUCCESS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="asrt" value="assert_redirected_to $END$" description="assert redirected" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -35,10 +23,6 @@
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FOREIGN_KEY_ID" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -46,10 +30,6 @@
     <variable name="NOTICE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -58,10 +38,6 @@
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FOREIGN_KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -70,10 +46,6 @@
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FOREIGN_KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -82,10 +54,6 @@
     <variable name="COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -93,10 +61,6 @@
     <variable name="TABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -106,30 +70,18 @@
     <variable name="STRING" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="mct" value="create_table :$TABLE_NAME$ do |t|&#10;  $END$&#10;end" description="model create table" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="TABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="mdt" value="drop_table :$TABLE_NAME$" description="model drop table" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="TABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -138,10 +90,6 @@
     <variable name="COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NEW_COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -149,10 +97,6 @@
     <variable name="TABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -160,10 +104,6 @@
     <variable name="TABLE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -171,20 +111,12 @@
     <variable name="COLUMN_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="ra" value="render :action =&gt; &quot;$ACTION$&quot;$END$&#10;&#10;" description="render with action" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ACTION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -192,20 +124,12 @@
     <variable name="ACTION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="LAYOUT_NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rea" value="redirect_to :action =&gt; &quot;$ACTION$&quot;$END$" description="redirect_to with action" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ACTION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -213,20 +137,12 @@
     <variable name="ACTION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rec" value="redirect_to :controller =&gt; &quot;$CONTROLLER$&quot;$END$" description="redirect_to with controller" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -234,10 +150,6 @@
     <variable name="CONTROLLER" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ACTION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -246,20 +158,12 @@
     <variable name="ACTION" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rf" value="render :file =&gt; &quot;$FILE_PATH$&quot;" description="render file" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="FILE_PATH" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -267,20 +171,12 @@
     <variable name="FILE_PATH" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="USE_FULL_PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="ri" value="render :inline =&gt; &quot;&lt;%= '$MESSAGE$' %&gt;&quot;" description="render inline" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -289,10 +185,6 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -300,30 +192,18 @@
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="RXML" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rl" value="render :layout =&gt; &quot;$LAYOUT_NAME$&quot;$END$" description="render layout" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="LAYOUT_NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rn" value="render :nothing =&gt; $TRUE$" description="render with nothing" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="TRUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -331,20 +211,12 @@
     <variable name="TRUE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="HTTP_STATUS" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rp" value="render :partial =&gt; &quot;$ITEM$&quot;" description="render partial" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -352,10 +224,6 @@
     <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -364,10 +232,6 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -375,10 +239,6 @@
     <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJ" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -386,20 +246,12 @@
     <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="HTTP_STATUS" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="rt" value="render :text =&gt; &quot;$TEXT$&quot;" description="render text" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -407,10 +259,6 @@
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LAYOUT_NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -418,10 +266,6 @@
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TRUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -429,34 +273,20 @@
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="HTTP_STATUS" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="s" value="session[:$USER$]$END$" description="session" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
-  <template name="script" value="&lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&#10;$SELECTION$&#10;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="script" value="&lt;script type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&#10;$SELECTION$&#10;&lt;/script&gt;" description="" toReformat="true" toShortenFQNames="true" deactivated="true" />
   <template name="va" value="validates_associated :$ATTRIBUTE$, :on =&gt; &quot;$CREATE$&quot;" description="validates associated" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -465,10 +295,6 @@
     <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -477,10 +303,6 @@
     <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -490,10 +312,6 @@
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -503,10 +321,6 @@
     <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -517,20 +331,12 @@
     <variable name="IS_NOT_ALLOWED" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
   <template name="verify" value="verify :only =&gt; [:$E$], :method =&gt; :post, :render =&gt; {:status =&gt; 500, :text =&gt; &quot;use HTTP-POST&quot;}" description="verify post-only" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="E" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -538,10 +344,6 @@
     <variable name="E" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="INDEX" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -550,10 +352,6 @@
     <variable name="INTEGER" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -562,10 +360,6 @@
     <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -575,10 +369,6 @@
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -587,10 +377,6 @@
     <variable name="CREATE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
@@ -600,10 +386,6 @@
     <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="COMPLETION" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="JSP" value="false" />
     </context>
   </template>
