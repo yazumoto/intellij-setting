@@ -5,6 +5,9 @@
   </action>
   <action id="ChangesView.Move" />
   <action id="GotoLine" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="MinimizeCurrentWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
