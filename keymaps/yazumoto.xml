@@ -4,11 +4,21 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ChangesView.Move" />
+  <action id="DecrementWindowHeight" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="GotoLine" />
+  <action id="IncrementWindowHeight" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -22,6 +32,9 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
