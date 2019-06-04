@@ -19,6 +19,7 @@
     <variable name="MATCHER_METHOD_NAME" expression="" defaultValue="&quot;be_one_more_than&quot;" alwaysStopAt="true" />
     <variable name="MATCHER_METHOD_PRESENTABLE_NAME" expression="underscoresToSpaces(MATCHER_METHOD_NAME)" defaultValue="MATCHER_METHOD_NAME" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="&quot;one_more_than&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="shrec" value="$mock$.should_receive(:$msg$).with($params$).and_return($result$)" description="shrec" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="mock" expression="" defaultValue="" alwaysStopAt="true" />
