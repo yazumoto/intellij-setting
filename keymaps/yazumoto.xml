@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="ChangesView.Move" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
@@ -19,6 +22,9 @@
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="GotoLine" />
   <action id="IncrementWindowHeight" />
@@ -48,8 +54,16 @@
     <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
