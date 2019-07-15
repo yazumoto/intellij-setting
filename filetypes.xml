@@ -50,6 +50,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="mk'" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="err" type="PLAIN_TEXT" />
       <mapping ext="forimage" type="PLAIN_TEXT" />
