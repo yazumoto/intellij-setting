@@ -1,5 +1,5 @@
 <templateSet group="JOIRails">
-  <template name="render_model_error" value="it_behaves_like :render_model_error, $param$: ['$value$']" toReformat="false" toShortenFQNames="true">
+  <template name="render_model_error" value="it_behaves_like :render_model_error, $param$: ['$value$']" description="" toReformat="false" toShortenFQNames="true">
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
