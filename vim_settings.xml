@@ -6,6 +6,7 @@
       <file name="/Dummy.txt" timestamp="1478918436393">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/coding/joi/joi-api-spec/admin/models/consultation_reply.md" timestamp="1563462162068" />
       <file name="/fragment.rb" timestamp="1478918047646">
         <mark key="[" line="0" column="0" />
       </file>
@@ -15,6 +16,13 @@
       <file name="$USER_HOME$/tmp/mock-service/Gemfile" timestamp="1478918673895">
         <mark key="[" line="43" column="14" />
       </file>
+      <file name="$USER_HOME$/coding/joi/joi-api-spec/admin/consultations.md" timestamp="1563462117135">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="140" column="22" />
+        <mark key="]" line="140" column="6" />
+        <mark key="^" line="140" column="6" />
+        <mark key="." line="140" column="6" />
+      </file>
       <file name="$USER_HOME$/tmp/mock-service/app/controllers/session_controller.rb" timestamp="1478919102705">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="34" />
@@ -22,7 +30,13 @@
         <mark key="^" line="2" column="34" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="57" filename="$USER_HOME$/coding/joi/joi-api-spec/admin/consultations.md" />
+      <jump line="99" column="0" filename="$USER_HOME$/coding/joi/joi-api-spec/admin/consultations.md" />
+      <jump line="132" column="0" filename="$USER_HOME$/coding/joi/joi-api-spec/admin/consultations.md" />
+      <jump line="87" column="0" filename="$USER_HOME$/coding/joi/joi-api-spec/admin/consultations.md" />
+      <jump line="137" column="0" filename="$USER_HOME$/coding/joi/joi-api-spec/admin/consultations.md" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
