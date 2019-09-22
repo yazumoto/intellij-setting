@@ -4,45 +4,46 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="open-pulls" type="PLAIN_TEXT" />
-      <mapping pattern="open-github" type="PLAIN_TEXT" />
-      <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
-      <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
-      <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
-      <mapping pattern="web/oauth/callback" type="PLAIN_TEXT" />
-      <mapping pattern="geekhub-first" type="PLAIN_TEXT" />
-      <mapping pattern="engineer" type="PLAIN_TEXT" />
-      <mapping pattern=".db_password" type="PLAIN_TEXT" />
-      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
-      <mapping pattern="error-modal/error-modal/jsx" type="PLAIN_TEXT" />
-      <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
-      <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
-      <mapping pattern="open-issues" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="development" type="PLAIN_TEXT" />
-      <mapping pattern="sandbox" type="PLAIN_TEXT" />
-      <mapping pattern="domain/base" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="masara" type="PLAIN_TEXT" />
-      <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="black-white-list-editor" type="PLAIN_TEXT" />
-      <mapping pattern="production" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="nagamoto" type="PLAIN_TEXT" />
-      <mapping pattern=".db_host" type="PLAIN_TEXT" />
-      <mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="line" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="rails/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
-      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="mysql/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="geekhub-first" type="PLAIN_TEXT" />
+      <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
+      <mapping pattern="production" type="PLAIN_TEXT" />
+      <mapping pattern="open-pulls" type="PLAIN_TEXT" />
+      <mapping pattern="【意外と怖い】ブルーライトが人体に与える影響＆今すぐできる対策3つ - closet（クローゼット）｜女の子たちの毎日をちょっとおしゃれに！" type="PLAIN_TEXT" />
+      <mapping pattern="call-auth-db" type="PLAIN_TEXT" />
+      <mapping pattern=".db_password.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env.yasumoto" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern="masara" type="PLAIN_TEXT" />
+      <mapping pattern=".db_password" type="PLAIN_TEXT" />
+      <mapping pattern="engineer" type="PLAIN_TEXT" />
+      <mapping pattern="black-white-list-editor" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="web/oauth/callback" type="PLAIN_TEXT" />
+      <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".db_host" type="PLAIN_TEXT" />
+      <mapping pattern="open-issues" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="domain/base" type="PLAIN_TEXT" />
+      <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
+      <mapping pattern="line" type="PLAIN_TEXT" />
+      <mapping pattern="nagamoto" type="PLAIN_TEXT" />
+      <mapping pattern="open-github" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping pattern="development" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern="rails/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="error-modal/error-modal/jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
