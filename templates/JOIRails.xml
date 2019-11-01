@@ -6,4 +6,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="render_not_found" value="it_behaves_like :render_not_found, '$value$'" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
