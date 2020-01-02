@@ -10,6 +10,7 @@
       <mapping pattern="production" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="元ももクロ・伊倉愛美がイメージDVDを発売!色気満載・四つん這いで…｜MARBLE [マーブル]" type="PLAIN_TEXT" />
+      <mapping pattern="nginx/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".erdconfig" type="PLAIN_TEXT" />
+      <mapping pattern="phpfpm/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="black-white-list-editor" type="PLAIN_TEXT" />
       <mapping pattern="ticket_reward" type="PLAIN_TEXT" />
