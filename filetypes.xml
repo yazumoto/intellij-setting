@@ -14,6 +14,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="deploy_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
+      <mapping pattern="php-apache/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="rails/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="mysql/Dockerfile" type="PLAIN_TEXT" />
