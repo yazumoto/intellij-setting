@@ -1,4 +1,8 @@
 <keymap version="1" name="yazumoto" parent="Mac OS X 10.5+">
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 8" />
