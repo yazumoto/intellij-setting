@@ -2,9 +2,6 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
-  <component name="EditorSettings">
-    <option name="IS_CAMEL_WORDS" value="true" />
-  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
