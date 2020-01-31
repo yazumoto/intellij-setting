@@ -1,0 +1,39 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test" />
+    <macro name="&lt;noname&gt;" />
+    <macro name="create class">
+      <action id="CopyReference" />
+      <action id="EditorPaste" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorLineStart" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="EditorDeleteToWordStart" />
+      <action id="$SelectAll" />
+      <action id="ToggleCamelSnakeCase" />
+      <action id="EditorLineStart" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="SelectNextOccurrence" />
+      <action id="SelectNextOccurrence" />
+      <action id="SelectNextOccurrence" />
+      <action id="SelectNextOccurrence" />
+      <action id="SelectNextOccurrence" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="32:0;77:0;79:0;68:0;85:0;76:0;69:0;32:0">&amp;#x20;module&amp;#x20;</typing>
+      <shortuct text="control U" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorEnter" />
+      <action id="EditorEscape" />
+      <action id="EditorBackSpace" />
+      <action id="ReformatCode" />
+      <action id="EditorMatchBrace" />
+    </macro>
+  </component>
+</application>
