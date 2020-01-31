@@ -4077,6 +4077,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/eventmachine-1.2.7/examples" />
       </excluded>
     </library>
+    <library name="eventmachine (v1.2.7, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/docs" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/java" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/tests" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/docs" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/java" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/tests" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/docs" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/java" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/tests" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/rakelib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/examples" />
+      </excluded>
+    </library>
     <library name="execjs (v2.7.0, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
