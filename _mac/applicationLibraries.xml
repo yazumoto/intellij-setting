@@ -2696,25 +2696,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/aws-sigv4-1.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="bcrypt (v3.1.13, rbenv: 2.6.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/ext" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bcrypt-3.1.13/spec" />
-      </excluded>
-    </library>
     <library name="bigdecimal (v1.4.1, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2947,25 +2928,6 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
-    <library name="bundler (v2.0.0, rbenv: 2.6.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.0/man" />
-      </excluded>
-    </library>
     <library name="bundler (v2.0.1, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2983,44 +2945,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.0.1/man" />
-      </excluded>
-    </library>
-    <library name="bundler (v2.0.1, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.0.1/man" />
-      </excluded>
-    </library>
-    <library name="bundler (v2.1.4, rbenv: 2.6.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/man" />
       </excluded>
     </library>
     <library name="byebug (v11.0.1, rbenv: 2.6.3) [gem]" type="rubylib">
@@ -3175,22 +3099,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/coderay-1.1.2/bin" />
-      </excluded>
-    </library>
-    <library name="coderay (v1.1.2, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/coderay-1.1.2/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/coderay-1.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/coderay-1.1.2/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/coderay-1.1.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/coderay-1.1.2/bin" />
       </excluded>
     </library>
     <library name="concurrent-ruby (v1.1.5, rbenv: 2.6.3) [gem]" type="rubylib">
@@ -4841,22 +4749,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/method_source-0.9.2/spec" />
       </excluded>
     </library>
-    <library name="method_source (v0.9.2, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/method_source-0.9.2/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/method_source-0.9.2/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/method_source-0.9.2/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/method_source-0.9.2/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/method_source-0.9.2/spec" />
-      </excluded>
-    </library>
     <library name="mimemagic (v0.3.3, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5285,28 +5177,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/nokogiri-1.10.3/patches" />
       </excluded>
     </library>
-    <library name="nokogiri (v1.10.3, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/ext" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/patches" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/ext" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/patches" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/ext" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/nokogiri-1.10.3/patches" />
-      </excluded>
-    </library>
     <library name="nokogiri (v1.10.5, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5508,22 +5378,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pry-0.12.2/bin" />
-      </excluded>
-    </library>
-    <library name="pry (v0.12.2, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/pry-0.12.2/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/pry-0.12.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/pry-0.12.2/bin" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/pry-0.12.2/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/pry-0.12.2/bin" />
       </excluded>
     </library>
     <library name="pry-rails (v0.3.9, rbenv: 2.6.3) [gem]" type="rubylib">
