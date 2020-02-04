@@ -3,7 +3,8 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="EditorSettings">
-    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
