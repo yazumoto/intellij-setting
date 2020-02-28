@@ -638,11 +638,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.9.25" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/ffi-1.9.25/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/ffi-1.9.25/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/ffi/1.9.25" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/ffi-1.9.25/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/ffi-1.9.25/lib" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/ffi-1.9.25/samples" />
@@ -1736,11 +1738,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/lib" />
