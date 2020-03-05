@@ -9,4 +9,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="fo" value="fontSize: getSize($SIZE$)" description="fontSize" toReformat="false" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="24" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
