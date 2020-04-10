@@ -256,25 +256,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/bundler-2.1.4/man" />
       </excluded>
     </library>
-    <library name="bundler (v2.1.4, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/exe" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/bundler-2.1.4/man" />
-      </excluded>
-    </library>
     <library name="celluloid (v0.16.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
