@@ -27,6 +27,7 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoLine" />
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
@@ -43,6 +44,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PlaySavedMacrosAction">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
@@ -65,6 +67,11 @@
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f3" />
