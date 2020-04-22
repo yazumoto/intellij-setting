@@ -1704,11 +1704,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/rb-fsevent-0.10.3/lib" />
@@ -2456,10 +2458,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.1" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/websocket-driver-0.7.1/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/websocket-driver-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.1" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/websocket-driver-0.7.1/ext" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
