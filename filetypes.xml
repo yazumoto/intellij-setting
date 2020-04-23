@@ -4,8 +4,10 @@
     <extensionMap>
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
