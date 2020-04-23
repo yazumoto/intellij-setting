@@ -24,10 +24,10 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EditorCutLineEnd" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
-  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoLine" />
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
@@ -44,7 +44,6 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
-  <action id="ParameterInfo" />
   <action id="PlaySavedMacrosAction">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
@@ -53,9 +52,17 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="ResetColumnsWidth" />
-  <action id="ResizeToolWindowDown" />
-  <action id="ResizeToolWindowUp" />
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="SaveAll" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
@@ -67,11 +74,6 @@
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="meta m" />
-  </action>
-  <action id="Switcher">
-    <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
-    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f3" />
