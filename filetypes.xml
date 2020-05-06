@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="xmind" type="XML" />
+      <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="md" approved="true" type="XML" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
