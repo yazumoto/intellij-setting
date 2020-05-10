@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="XML" />
-      <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
