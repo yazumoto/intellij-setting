@@ -144,6 +144,17 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.0.3/config" />
       </excluded>
     </library>
+    <library name="activesupport (v4.2.11.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activesupport-4.2.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activesupport-4.2.11.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v6.0.2.1, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -663,6 +674,33 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/claide-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods (v1.9.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-1.9.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-1.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-1.9.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-1.9.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-1.9.3/bin" />
+      </excluded>
+    </library>
+    <library name="cocoapods-core (v1.9.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-core-1.9.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/cocoapods-core-1.9.3/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-deintegrate (v1.0.4, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -3908,6 +3946,25 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="typhoeus (v1.4.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/perf" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/perf" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/perf" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/typhoeus-1.4.0/spec" />
+      </excluded>
     </library>
     <library name="tzinfo (v1.2.6, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
