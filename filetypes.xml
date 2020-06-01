@@ -8,6 +8,7 @@
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping ext="md" approved="true" type="XML" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
