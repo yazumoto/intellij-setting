@@ -6,7 +6,9 @@
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfilie" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
