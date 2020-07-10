@@ -9,12 +9,11 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.jbuilder" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.gemspec</mask>
-    <mask>*.jbuilder</mask>
     <mask>*.ru</mask>
     <mask>*.rbw</mask>
     <mask>*.rake</mask>
@@ -22,5 +21,6 @@
     <mask>*.vue</mask>
     <mask>*.jsx</mask>
     <mask>*.rb</mask>
+    <mask>*.jbuilder</mask>
   </component>
 </application>
