@@ -9,13 +9,13 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.gemspec</mask>
-    <mask>*.jbuilder</mask>
     <mask>*.ru</mask>
     <mask>*.rbw</mask>
     <mask>*.rake</mask>
     <mask>*.thor</mask>
-    <mask>*.vue</mask>
     <mask>*.jsx</mask>
+    <mask>*.jbuilder</mask>
+    <mask>*.vue</mask>
     <mask>*.rb</mask>
   </component>
 </application>
