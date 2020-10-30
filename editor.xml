@@ -3,7 +3,7 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="32" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="SECONDARY_FONT_FAMILY" value="Ricty" />
   </component>
@@ -11,6 +11,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
