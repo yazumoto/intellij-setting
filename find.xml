@@ -19,5 +19,6 @@
     <mask>*.jbuilder</mask>
     <mask>*.vue</mask>
     <mask>*.rb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
