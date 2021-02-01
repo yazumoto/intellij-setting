@@ -114,7 +114,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -131,7 +131,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -156,7 +156,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -425,7 +425,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -1017,7 +1017,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -1140,7 +1140,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -1711,7 +1711,7 @@
                   </entry>
                   <entry key="DatabaseScript">
                     <value>
-                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -1786,12 +1786,12 @@
                   </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="WasmPackCommandRunConfiguration">
