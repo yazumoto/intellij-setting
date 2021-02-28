@@ -17,5 +17,7 @@
     <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.ctp</mask>
+    <mask>*.php</mask>
   </component>
 </application>
