@@ -19,5 +19,6 @@
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.ctp</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
