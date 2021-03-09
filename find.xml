@@ -13,11 +13,11 @@
     <mask>*.thor</mask>
     <mask>*.jsx</mask>
     <mask>*.jbuilder</mask>
-    <mask>*.vue</mask>
     <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.ctp</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
+    <mask>*.ctp</mask>
   </component>
 </application>
