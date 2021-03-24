@@ -13,6 +13,19 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/actioncable-6.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actioncable-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actioncable-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actioncable-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actioncable-6.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailbox (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -34,6 +47,27 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.0.3/config" />
       </excluded>
     </library>
+    <library name="actionmailbox (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailbox-6.1.3/config" />
+      </excluded>
+    </library>
     <library name="actionmailer (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45,6 +79,17 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailer-6.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailer-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionmailer-6.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -54,6 +99,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionpack-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionpack-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionpack-6.1.3/lib" />
       </SOURCES>
     </library>
     <library name="actiontext (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -74,6 +130,24 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.0.3/db" />
       </excluded>
     </library>
+    <library name="actiontext (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actiontext-6.1.3/db" />
+      </excluded>
+    </library>
     <library name="actionview (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -83,6 +157,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionview-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionview-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/actionview-6.1.3/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -96,6 +181,17 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activejob-6.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activejob-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activejob-6.1.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -105,6 +201,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activemodel-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activemodel-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activemodel-6.1.3/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -121,6 +228,22 @@
       </SOURCES>
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activerecord-6.0.3/examples" />
+      </excluded>
+    </library>
+    <library name="activerecord (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activerecord-6.1.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activerecord-6.1.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activerecord-6.1.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activerecord-6.1.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activerecord-6.1.3/examples" />
       </excluded>
     </library>
     <library name="activestorage (v6.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -142,6 +265,27 @@
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.0.3/db" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.0.3/config" />
+      </excluded>
+    </library>
+    <library name="activestorage (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/app" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/db" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activestorage-6.1.3/config" />
       </excluded>
     </library>
     <library name="activesupport (v4.2.11.3, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -186,6 +330,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/activesupport-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activesupport-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/activesupport-6.1.3/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.7.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -3184,6 +3339,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails-dom-testing (v2.0.3, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3230,6 +3392,22 @@
       </SOURCES>
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/railties-6.0.3/exe" />
+      </excluded>
+    </library>
+    <library name="railties (v6.1.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/railties-6.1.3/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/railties-6.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/railties-6.1.3/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/railties-6.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/railties-6.1.3/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
@@ -4519,6 +4697,17 @@
       <excluded>
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/tzinfo-1.2.7/test" />
       </excluded>
+    </library>
+    <library name="tzinfo (v2.0.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/tzinfo-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/tzinfo-2.0.4/lib" />
+      </SOURCES>
     </library>
     <library name="uri (v0.10.0, rbenv: 2.7.1) [gem]" type="rubylib">
       <properties>
