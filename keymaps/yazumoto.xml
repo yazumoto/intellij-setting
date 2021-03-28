@@ -13,11 +13,14 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
   <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
@@ -46,6 +49,10 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="PlaySavedMacrosAction">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
@@ -64,6 +71,11 @@
   </action>
   <action id="ResizeToolWindowUp">
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <mouse-shortcut keystroke="alt button3" />
   </action>
   <action id="SaveAll" />
   <action id="SelectIn">
@@ -89,6 +101,7 @@
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>
