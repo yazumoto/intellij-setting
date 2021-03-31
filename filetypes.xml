@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
+      <mapping pattern="test/Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
       <mapping pattern="Docerfile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
