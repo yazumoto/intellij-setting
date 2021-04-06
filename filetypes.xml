@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile-2" type="AUTO_DETECTED" />
-      <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
       <mapping pattern="Docerfile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
@@ -12,6 +13,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern=".circleci/config" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
