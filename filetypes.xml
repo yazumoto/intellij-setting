@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="Dockerfile-2" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Docerfile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
