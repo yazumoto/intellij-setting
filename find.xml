@@ -17,8 +17,8 @@
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
-    <mask>*.ctp</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
+    <mask>*.ctp</mask>
   </component>
 </application>
