@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Dockerfile-2" type="AUTO_DETECTED" />
+      <mapping pattern="typescript" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
