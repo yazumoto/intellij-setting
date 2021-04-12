@@ -1715,6 +1715,7 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.vue" />
               <option name="myPluginName" value="Vue.js" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
