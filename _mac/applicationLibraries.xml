@@ -534,6 +534,25 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.4/rakelib" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.17.2/man" />
+      </excluded>
+    </library>
     <library name="bundler (v1.17.2, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
