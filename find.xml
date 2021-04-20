@@ -13,7 +13,6 @@
     <mask>*.thor</mask>
     <mask>*.jsx</mask>
     <mask>*.jbuilder</mask>
-    <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
@@ -21,5 +20,6 @@
     <mask>*.php</mask>
     <mask>*.ctp</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
