@@ -18,8 +18,8 @@
     <mask>*.vue</mask>
     <mask>*.sass</mask>
     <mask>*.php</mask>
-    <mask>*.ctp</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
+    <mask>*.ctp</mask>
   </component>
 </application>
