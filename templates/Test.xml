@@ -1,0 +1,8 @@
+<templateSet group="Test">
+  <template name="ttt" value="&lt;a class=&quot;top-text-block_link&quot; href=&quot;/c0_&lt;?= $currentCategory-&gt;parent_id ?&gt;/c1_&lt;?= $currentCategory-&gt;id ?&gt;/c2_66&quot;&gt;$TEST$&lt;/a&gt;&#10;" description="ttt" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
