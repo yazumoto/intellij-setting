@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,13 +13,13 @@
     <mask>*.thor</mask>
     <mask>*.jsx</mask>
     <mask>*.jbuilder</mask>
-    <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
-    <mask>*.sass</mask>
     <mask>*.php</mask>
-    <mask>*.ctp</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.rb</mask>
+    <mask>*.ctp</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
