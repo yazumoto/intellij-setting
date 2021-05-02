@@ -6,18 +6,18 @@
       <mapping pattern=".circleci/config" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel" type="PLAIN_TEXT" />
-      <mapping pattern="Docerfile" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Docerfile" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
