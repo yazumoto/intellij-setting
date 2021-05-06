@@ -6,7 +6,6 @@
       <mapping pattern="typescript" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-local" type="AUTO_DETECTED" />
-      <mapping ext="webp" type="Image" />
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Docerfile" type="PLAIN_TEXT" />
