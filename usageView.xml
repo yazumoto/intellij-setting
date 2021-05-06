@@ -3,6 +3,7 @@
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
   <component name="UsageViewSettings">
+    <option name="EXPORT_FILE_NAME" value="$USER_HOME$/Downloads/report.txt" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
     <option name="GROUP_BY_PACKAGE" value="false" />
