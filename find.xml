@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.ctp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -22,7 +22,7 @@
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*.sass</mask>
-    <mask>*.ctp</mask>
     <mask>*.php</mask>
+    <mask>*.ctp</mask>
   </component>
 </application>
