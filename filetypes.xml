@@ -24,6 +24,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="XML" />
       <removed_mapping ext="md" approved="true" type="XML" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
