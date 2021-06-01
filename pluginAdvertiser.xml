@@ -159,8 +159,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -177,8 +176,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -212,8 +210,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -544,8 +541,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -1523,8 +1519,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
@@ -1665,8 +1660,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
-              <option name="myPluginName" value="Database Tools and SQL" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
