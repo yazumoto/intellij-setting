@@ -3,10 +3,12 @@
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
   <component name="UsageViewSettings">
+    <option name="EXPORT_FILE_NAME" value="$USER_HOME$/Downloads/report.txt" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
     <option name="GROUP_BY_MODULE" value="false" />
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_USAGE_TYPE" value="false" />
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.7736175" />
+    <option name="IS_PREVIEW_USAGES" value="false" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.40287125" />
   </component>
 </application>
