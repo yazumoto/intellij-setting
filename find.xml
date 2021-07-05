@@ -16,10 +16,10 @@
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
-    <mask>*.ctp</mask>
+    <mask>*.php</mask>
     <mask>*.sass</mask>
+    <mask>*.ctp</mask>
   </component>
 </application>
