@@ -170,7 +170,7 @@
       <option name="JSP" value="true" />
     </context>
   </template>
-  <template name="link:favicon" value="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;$FAVICON$&quot;&gt;" description="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;favicon.ico&quot;&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="link:favicon" value="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;$FAVICON$&quot;&gt;" description="&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;favicon.ico&quot;&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="FAVICON" expression="" defaultValue="&quot;favicon.ico&quot;" alwaysStopAt="true" />
     <context>
       <option name="JSP" value="true" />
