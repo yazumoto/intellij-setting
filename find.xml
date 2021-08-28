@@ -17,11 +17,11 @@
     <mask>*.jbuilder</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.vue</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*.php</mask>
     <mask>*.sass</mask>
     <mask>*.ctp</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
