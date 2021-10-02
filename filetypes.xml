@@ -16,6 +16,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern=".cloudformation.env.sample" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="Docerfile" type="PLAIN_TEXT" />
       <mapping pattern=".cloudformation.env" type="PLAIN_TEXT" />
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
