@@ -1,7 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile-2" type="AUTO_DETECTED" />
+      <mapping pattern="typescript" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile-local" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="others/aizu_online_juds/dsl_3_c/" type="PLAIN_TEXT" />
@@ -23,12 +27,10 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="md" approved="true" type="XML" />
-      <mapping pattern="Dockerfile-2" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile-local" type="AUTO_DETECTED" />
-      <mapping pattern="config" type="AUTO_DETECTED" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern="typescript" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
