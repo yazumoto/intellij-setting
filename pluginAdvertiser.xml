@@ -82,6 +82,11 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="OdpsQLRunnerConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="MaxCompute SQL" pluginName="MaxCompute Studio" pluginId="OdpsStudio" />
+                    </value>
+                  </entry>
                   <entry key="PhoneGap">
                     <value>
                       <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" bundled="true" />
