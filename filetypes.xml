@@ -6,6 +6,8 @@
       <mapping pattern="Dockerfile-2" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-local" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".cloudformation.env.sample" type="PLAIN_TEXT" />
       <mapping pattern=".circleci/config" type="PLAIN_TEXT" />
