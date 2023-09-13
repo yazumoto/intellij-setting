@@ -3,9 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.gemspec</mask>
     <mask>*.ru</mask>
     <mask>*.rbw</mask>
@@ -22,5 +22,6 @@
     <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*.dart</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
